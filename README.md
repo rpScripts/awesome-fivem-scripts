@@ -27,7 +27,7 @@ A curated list of the best places to find **FiveM scripts**: marketplaces, the C
 ## Frameworks
 
 - [ESX Legacy](https://github.com/esx-framework/esx_core) - the long-running role-play framework ([docs](https://docs.esx-framework.org/en)).
-- [QBCore](https://github.com/qbcore-fivem/qb-core) - framework core with a large script ecosystem ([docs](https://qbcore.org/docs/)).
+- [QBCore](https://qbcore.net/) - framework with a large script ecosystem ([docs](https://qbcore.net/), [source](https://github.com/qbcore-fivem/qb-core)).
 - [Qbox](https://github.com/Qbox-project) - QBCore successor built on the Overextended libraries ([docs](https://docs.qbox.re/)).
 - [ox_core](https://github.com/overextended/ox_core) - player and vehicle management and persistence.
 
